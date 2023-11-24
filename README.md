@@ -47,8 +47,34 @@ Here are some ideas to get you started:
   </a>
 </div>
 
- <hr/>
- 
+<h3 align="center"> 🔭 Where can you find the information you need? A little more background about the projects I worked on 🔭 </h3>
+
+<br/>
+
+<div align="left">
+
+***If you want to look at my projects involving Data Analysis, Data Collection, Data Mining, Data Visualization, Predictive Modeling, and the use of statistical machine learning algorithms:***   
+ - ***ESG Project (Fall 2021)*** where I designed and implemented a model utilizing: simple linear regression, the overall F-test, and transformation of some variables using log.
+ - ***Women in the Labor Force (Fall 2022)*** where I utilized more complex models such as: Lasso and Ridge Regression, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), K-nearest-neighbor (KNN).
+ - ***Customer Churn Prediction (Fall 2023)*** where I designed and implemented a model utilizing: logistic regression, decision trees, and random forest.
+   
+***If you want to look at my projects involving my research:***
+ - ***rmexact_analysis (Fall 2021 - Spring 2023)*** where I built statistical approaches using the Exact test and compared them with existing methods (Likelihood Ratio Test and Chi-Square).
+
+***If you would like to review my work in building a package:***
+- ***sgroupr (Spring 2022)*** where I build a package to use finite abelian groups (you can find out more though this link: https://en.wikipedia.org/wiki/List_of_small_groups). The package can be used and includes a vignette with explanation on how to use the package.
+  
+***(Work in Progress)If you would like to see my more recent work which involves the creation of a data pipeline to showcase my most recent acquired skills: SQL, Cloud Mining through Azure, and Tensorflow.:***
+
+
+
+ </div>
+
+
+<br/><br/>
+
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
