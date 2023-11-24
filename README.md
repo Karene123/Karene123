@@ -58,14 +58,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com" />
-  <img width=390 src="https://github-readme-stats.vercel.app" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app" />
-</div>
 
 <br/><br/>
 
