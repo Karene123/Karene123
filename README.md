@@ -62,7 +62,7 @@ Here are some ideas to get you started:
  - ***rmexact_analysis (Fall 2021 - Spring 2023)*** where I built statistical approaches using the Exact test and compared them with existing methods (Likelihood Ratio Test and Chi-Square).
 
 ***If you would like to review my work in building a package:***
-- ***sgroupr (Spring 2022)*** where I build a package to use finite abelian groups (you can find out more though this link: https://en.wikipedia.org/wiki/List_of_small_groups). The package can be used and includes a vignette with explanation on how to use the package.
+- ***sgroupr (Spring 2022)*** where I built a package to use finite abelian groups (you can find out more though this link: https://en.wikipedia.org/wiki/List_of_small_groups). The package can be used and includes a vignette with explanation on how to use the package.
   
 ***(Work in Progress)If you would like to see my more recent work which involves the creation of a data pipeline to showcase my most recent acquired skills: SQL, Cloud Mining through Azure, and Tensorflow.:***
 
