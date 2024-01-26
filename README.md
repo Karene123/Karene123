@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a pricing optimization project**
+ 🔭 I’m currently working on **a gym retention project**
  
- 🌱 I’m currently learning **Azure Airflow, Cloud Computing, and how to build data pipelines**
+ 🌱 I’m currently learning **SQL, Neural Networks including LLMs, how to utilize AI, and how to build Data Pipelines**
 
 ⚡ Fun fact **I had a Bachelor's degree in Accounting before I decide to get a master's degree in Statistics**
 
@@ -54,15 +54,15 @@ Here are some ideas to get you started:
 <div align="left">
 
 ***If you want to look at my projects involving Data Analysis, Data Collection, Data Mining, Data Visualization, Predictive Modeling, and the use of statistical machine learning algorithms:***   
- - ***ESG Project (Fall 2021)*** where I designed and implemented a model utilizing: simple linear regression, the overall F-test, and transformation of some variables using log.
- - ***Women in the Labor Force (Fall 2022)*** where I utilized more complex models such as: Lasso and Ridge Regression, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), K-nearest-neighbor (KNN).
- - ***Customer Churn Prediction (Fall 2023)*** where I designed and implemented a model utilizing: logistic regression, decision trees, and random forest.
+ - ***Fall 2021: [ESG Project](https://github.com/Karene123/ESG-Project)*** where I designed and implemented a model utilizing: simple linear regression, the overall F-test, and transformation of some variables using log.
+ - ***Fall 2022: [Women in the Labor Force](https://github.com/Karene123/Women_in_the_labor_force)*** where I utilized more complex models such as: Lasso and Ridge Regression, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), K-nearest-neighbor (KNN).
+ - ***Fall 2023: [Customer Churn Prediction](https://github.com/Karene123/Customer-Churn)*** where I designed and implemented a model utilizing: logistic regression, decision trees, and random forest.
    
 ***If you want to look at my projects involving my research:***
- - ***rmexact_analysis (Fall 2021 - Spring 2023)*** where I built statistical approaches using the Exact test and compared them with existing methods (Likelihood Ratio Test and Chi-Square).
+ - ***Fall 2021 - Spring 2023: [rmexact_analysis](https://github.com/gerardlab/rmexact_analysis)*** where I built statistical approaches using the Exact test and compared them with existing methods (Likelihood Ratio Test and Chi-Square).
 
 ***If you would like to review my work in building a package:***
-- ***sgroupr (Spring 2022)*** where I built a package to use finite abelian groups (you can find out more though this link: https://en.wikipedia.org/wiki/List_of_small_groups). The package can be used and includes a vignette with explanation on how to use the package.
+- ***Spring 2022: [Sgroupr](https://github.com/gerardlab/rmexact_analysis)*** where I built a package to use finite abelian groups (you can find out more though this link: https://en.wikipedia.org/wiki/List_of_small_groups). The package can be used and includes a vignette with explanation on how to use the package.
   
 ***(Work in Progress)If you would like to see my more recent work which involves the creation of a data pipeline to showcase my most recent acquired skills: SQL, Cloud Mining through Azure, and Tensorflow.:***
 
