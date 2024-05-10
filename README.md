@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working on **a gym retention project**
  
- 🌱 I’m currently learning **SQL, Neural Networks including LLMs, how to utilize AI, and how to build Data Pipelines**
+ 🌱 I’m currently learning **on how to work with panel data **
 
 ⚡ Fun fact **I had a Bachelor's degree in Accounting before I decide to get a master's degree in Statistics**
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ***If you would like to review my work in building a package:***
 - ***Spring 2022: [Sgroupr](https://github.com/gerardlab/rmexact_analysis)*** where I built a package to use finite abelian groups (you can find out more though this link: https://en.wikipedia.org/wiki/List_of_small_groups). The package can be used and includes a vignette with explanation on how to use the package.
   
-***(Work in Progress)If you would like to see my more recent work which involves the creation of a data pipeline to showcase my most recent acquired skills: SQL, Cloud Mining through Azure, and Tensorflow.:***
+***(Work in Progress)If you would like to see more of my recent project involving labor force participation in the United States since 1976 until 2015:***
 
 
 
