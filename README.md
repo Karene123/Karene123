@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working on **a gym retention project**
  
- 🌱 I’m currently learning **on how to work with panel data **
+ 🌱 I’m currently learning **on how to work with panel data**
 
 ⚡ Fun fact **I had a Bachelor's degree in Accounting before I decide to get a master's degree in Statistics**
 
