@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a gym retention project**
+ 🔭 I’m currently working on **a labor force participation project**
  
- 🌱 I’m currently learning **on how to work with panel data**
+ 🌱 I’m currently learning **how to work with panel data in R**
 
 ⚡ Fun fact **I had a Bachelor's degree in Accounting before I decide to get a master's degree in Statistics**
 
