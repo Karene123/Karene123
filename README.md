@@ -65,28 +65,3 @@ Here are some ideas to get you started:
 - ***Spring 2022: [Sgroupr](https://github.com/gerardlab/rmexact_analysis)*** where I built a package to use finite abelian groups (you can find out more though this link: https://en.wikipedia.org/wiki/List_of_small_groups). The package can be used and includes a vignette with explanation on how to use the package.
   
 ***(Work in Progress)If you would like to see more of my recent project involving labor force participation in the United States since 1976 until 2015:***
-
-
-
- </div>
-
-
-<br/><br/>
-
-<hr/>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,pandas, numpy, dplyr, plotly, mysql" /><br>
-</div>
-
-<br/>
-
-
-<br/><br/>
-
-<hr/>
-
-<br/>
