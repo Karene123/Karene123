@@ -57,6 +57,7 @@ Here are some ideas to get you started:
  - ***Fall 2021: [ESG Project](https://github.com/Karene123/ESG-Project)*** where I designed and implemented a model utilizing: simple linear regression, the overall F-test, and transformation of some variables using log.
  - ***Fall 2022: [Women in the Labor Force](https://github.com/Karene123/Women_in_the_labor_force)*** where I utilized more complex models such as: Lasso and Ridge Regression, Linear Discriminant Analysis (LDA), Quadratic Discriminant Analysis (QDA), K-nearest-neighbor (KNN).
  - ***Fall 2023: [Customer Churn Prediction](https://github.com/Karene123/Customer-Churn)*** where I designed and implemented a model utilizing: logistic regression, decision trees, and random forest.
+ - ***Fall 2024: [Student Support](https://github.com/Karene123/Student_Support)*** where I created a database in SQL to track students with low performance. Once these students are identified, they receive additional practice to support their understanding and improve overall comprehension across the class.
    
 ***If you want to look at my projects involving my research:***
  - ***Fall 2021 - Spring 2023: [rmexact_analysis](https://github.com/gerardlab/rmexact_analysis)*** where I built statistical approaches using the Exact test and compared them with existing methods (Likelihood Ratio Test and Chi-Square).
