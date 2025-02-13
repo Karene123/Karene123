@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **a labor force participation project**
+ 🔭 I’m currently working on **a project predicting inflation using monetary policy indicators.**
  
- 🌱 I’m currently learning **how to work with panel data in R**
+ 🌱 I’m currently learning **how to do time series analysis using Python.**
 
-⚡ Fun fact **I had a Bachelor's degree in Accounting before I decide to get a master's degree in Statistics**
+⚡ Fun fact **I had a Bachelor's degree in Accounting before I decide to get a master's degree in Statistics. Now, I am pursuing a PhD in Computational Science.**
 
  </div>
  
